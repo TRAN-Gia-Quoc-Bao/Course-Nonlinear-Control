@@ -1,9 +1,9 @@
 # Exercises for Nonlinear System Analysis and Control course
 The exercises for my Nonlinear System Analysis and Control course were given in two labs (two students per group). This course is given in English.
 
-The first one is "Blending control" which was finished.
+Lab 1: Blending control (nonlinear control by nonlinearity compensation)
 
-The second one is "Robot arm control" which is still ongoing. The codes and report will come soon.
+Lab 2: Robot arm control (stabilization using input/output linearization)
 
 By: Gia Quoc Bao TRAN 
 
